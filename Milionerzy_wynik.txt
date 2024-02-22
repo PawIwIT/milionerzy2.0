@@ -1,0 +1,4 @@
+Wynik: 1000000 user1
+Wynik: 1000000 user1Wynik: 1000000 nullWynik: 500 null
+Wynik: 500 null
+Wynik: 500 user2
